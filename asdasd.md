@@ -1,3 +1,6 @@
+- Mercury
+- Venus
+
 
 - [ ] Mercury
 - [x] Venus
